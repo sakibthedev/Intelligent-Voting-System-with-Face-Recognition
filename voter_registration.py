@@ -1,6 +1,5 @@
 def register_voter_demo():
     print("--- Voter Registration (Admin) ---")
-    # Details from your screenshot
     name = "Fabiha Lamisa"
     nid = "198204-XXXXX"
     constituency = "Dhaka-5"
