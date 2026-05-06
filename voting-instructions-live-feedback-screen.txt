@@ -1,0 +1,3 @@
+Task: Voting Instructions and Live Feedback Screen
+Status: Completed
+Test Case: Passed
